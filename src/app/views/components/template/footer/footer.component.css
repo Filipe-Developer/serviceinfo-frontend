@@ -1,0 +1,7 @@
+.footer{
+    height: 10%;
+    position: fixed;
+    bottom: 0;
+    text-align: end;
+    color: rgb(50, 158, 56);
+}
